@@ -22,7 +22,7 @@
 #define COUNT_LIMIT 12
 
 int     count = 0;
-pthread_mutex_t count_mutex;
+pthread_mutex_t mutex_timer;
 pthread_cond_t count_threshold_cv;
 
 void *inc_count(void *t) 
