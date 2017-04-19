@@ -1,6 +1,6 @@
 /******************************************************************************
 * Author: 			Dler Hasan
-* FILE: 			pthreads_condVar.c
+* FILE: 			main.c
 * DESCRIPTION:		Using pthreads condition variables and timers.    
 * LAST REVISED: 	04/18/2017
 ******************************************************************************/
